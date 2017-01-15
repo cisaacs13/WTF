@@ -1,0 +1,26 @@
+{
+  "name": "wtf",
+  "version": "0.0.1",
+  "description": "",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cisaacs13/WTF.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cisaacs13/WTF/issues"
+  },
+  "homepage": "https://github.com/cisaacs13/WTF#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "nodemon": "^1.11.0",
+    "nunjucks": "^3.0.0"
+  }
+}
